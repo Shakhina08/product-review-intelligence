@@ -252,6 +252,12 @@ Low-confidence, ambiguous and mixed-sentiment reviews should be reviewed by a hu
 
 The model may reflect limitations or biases in its training dataset. Predictions should therefore be interpreted carefully and should not be used to unfairly evaluate individual customers or employees.
 
+## AI Assistance Acknowledgment
+
+Generative AI tools were used for guidance with project planning, explanations, debugging and documentation drafting.
+
+I reviewed, ran and tested the submitted work myself. I understand the project methodology, model experiments, evaluation results, limitations and final demonstration, and I can explain them during the defense.
+
 ## Conclusion
 
 The project produced a complete and reproducible sentiment-classification workflow, including data validation, baseline comparison, controlled experiments, experiment tracking, protected test evaluation, saved artifacts and a clean interactive demo.
