@@ -1,58 +1,43 @@
 # Product Review Sentiment Intelligence System
 
+## Project Information
+
+- **Track:** Field-Based Scenario
+- **Scenario:** RET-02 Product Review Sentiment Intelligence System
+- **Task:** Binary text classification
+- **Author:** YOUR FULL NAME
+
 ## Project Overview
 
-This is an AI/ML Fundamentals Capstone Project based on the
-RET-02 Product Review Intelligence field scenario.
+This project classifies English product reviews as either:
 
-The project will classify English product-review sentences as either
-positive or negative sentiment.
+- **Positive**
+- **Negative**
 
-## Project Track
+The system is designed to support retail and customer-experience teams by helping them review large amounts of customer feedback more efficiently.
 
-Field-Based Scenario Track
+The final system accepts raw review text and returns:
 
-Scenario: RET-02 Product Review Intelligence
+- the predicted sentiment;
+- a confidence score;
+- a warning when the prediction confidence is low.
 
-## Intended User
+## Dataset
 
-The intended user is a retail customer-experience or product-quality team
-that needs to organize customer reviews by sentiment.
+The project uses the Amazon product-review subset from the **UCI Sentiment Labelled Sentences Dataset**.
 
-## Machine Learning Task
+Each record contains:
 
-- Task type: Binary text classification
-- Input: English product-review text
-- Target: Positive or negative sentiment
-- Output: Predicted sentiment and, where supported, a confidence score
+- `review`: raw English product-review text;
+- `label`: sentiment class.
 
-## Proposed Dataset
+Label meanings:
 
-The project will use the Amazon subset of the UCI Sentiment Labelled
-Sentences dataset.
+- `0` = Negative
+- `1` = Positive
 
-The full dataset documentation will be added during the Data Gate.
+The original dataset is not stored directly in this repository. Dataset source information and preparation instructions are available in:
 
-## Planned Approaches
-
-1. DummyClassifier baseline
-2. TF-IDF with Logistic Regression
-3. TF-IDF with Linear Support Vector Machine
-
-## Current Stage
-
-Project scope and repository setup.
-
-## Next Step
-
-Complete the Data Gate:
-
-- document and inspect the dataset;
-- perform focused EDA;
-- check missing and duplicate reviews;
-- create the train, validation and test split;
-- build leakage-safe text preprocessing.
-
-## Author
-
+```text
+data/README.md
 Shakhina Shokirova
