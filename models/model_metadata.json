@@ -1,0 +1,18 @@
+{
+    "project": "RET-02 Product Review Sentiment Intelligence",
+    "model": "Logistic Regression",
+    "vectorizer": "TF-IDF",
+    "ngram_range": [
+        1,
+        2
+    ],
+    "random_state": 42,
+    "labels": {
+        "0": "Negative",
+        "1": "Positive"
+    },
+    "validation_accuracy": 0.8513513513513513,
+    "validation_macro_f1": 0.8512426900584795,
+    "test_accuracy": 0.8053691275167785,
+    "test_macro_f1": 0.805334054151462
+}
