@@ -1,0 +1,5 @@
+Run,Model,TF-IDF,Validation Accuracy,Validation Macro F1,Runtime Seconds
+Dummy most frequent,DummyClassifier,None,0.5,0.3333333333333333,0.005805150000014692
+Logistic Regression unigram,Logistic Regression,Unigrams,0.831081081081081,0.8308880661821838,0.14318675200001962
+Linear SVM unigram,Linear SVM,Unigrams,0.8108108108108109,0.8107762557077626,0.049023420000139595
+Logistic Regression unigram + bigram,Logistic Regression,Unigrams + bigrams,0.8513513513513513,0.8512426900584795,0.03257334099998843

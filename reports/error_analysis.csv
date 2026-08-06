@@ -1,0 +1,150 @@
+review,true_label,predicted_label,positive_probability,confidence,error_type
+AFter the first charge kept going dead after 12 minutes.,0,0,0.3361137524705126,0.6638862475294873,Correct
+"A week later after I activated it, it suddenly died.",0,0,0.3634963340282797,0.6365036659717203,Correct
+I ended up sliding it on the edge of my pants or back pockets instead.,1,0,0.42224164680061954,0.5777583531993804,False Negative
+"Fits comfortably, came with three sizes of earbud tips.",1,0,0.48880283594023005,0.5111971640597699,False Negative
+It looks very nice.,1,1,0.5877577087667609,0.5877577087667609,Correct
+Nice Sound.,1,1,0.6443007314564958,0.6443007314564958,Correct
+That company is a joke.,0,0,0.4324854266154317,0.5675145733845683,Correct
+"It was an inexpensive piece, but I would still have expected better quality.",0,0,0.4527385738798488,0.5472614261201512,Correct
+"I love the camera, it's really pretty good quality.",1,1,0.7131956741576146,0.7131956741576146,Correct
+Arrived quickly and much less expensive than others being sold.,1,1,0.571071909053033,0.571071909053033,Correct
+The only good thing was that it fits comfortably on small ears.,1,1,0.5419323983070633,0.5419323983070633,Correct
+Great choice!,1,1,0.7448536378237245,0.7448536378237245,Correct
+"Buyer Beware, you could flush money right down the toilet.",0,0,0.33979678976334776,0.6602032102366522,Correct
+don't waste your money.,0,0,0.20225488652008897,0.7977451134799111,Correct
+"This case has passed the one year mark and while it shows signs of wear, it is 100% functional.",1,1,0.5439651005826899,0.5439651005826899,Correct
+"Bluetooth range is good - a few days ago I left my phone in the trunk, got a call, and carried the conversation without a hitch.",1,1,0.6448114822789709,0.6448114822789709,Correct
+Never got it!!!!!,0,0,0.4879452496539316,0.5120547503460684,Correct
+Then I had to continue pairing it periodically since it somehow kept dropping.,0,0,0.4018423673440185,0.5981576326559814,Correct
+Definitely a bargain.,1,1,0.5060879720505996,0.5060879720505996,Correct
+This device is great in several situations:1.),1,1,0.7938856102339408,0.7938856102339408,Correct
+"Clear Skype Calls, Long Battery Life, Long Range.",1,0,0.4646773685938675,0.5353226314061326,False Negative
+Integrated seamlessly with the Motorola RAZR phone.,1,1,0.532214061265914,0.532214061265914,Correct
+Best headset ever!!!.,1,1,0.6426447940254042,0.6426447940254042,Correct
+So just beware.,0,1,0.5946494189410332,0.5946494189410332,False Positive
+I was very pleased to see that I could replace my well travled swivel holster for my Blackberry flip.,1,1,0.5751703290909417,0.5751703290909417,Correct
+I received my supposedly new motorola 375 and apparently there was not a match between the phone and the charger.,0,0,0.4383449091435778,0.5616550908564222,Correct
+"very clear, quality sound and you don't have to mess with the sound on your iPod since you have the sound buttons on the headset.",1,1,0.5052026089587128,0.5052026089587128,Correct
+I found this product to be waaay too big.,0,0,0.45816070842942647,0.5418392915705735,Correct
+A lot of websites have been rating this a very good phone and so do I.,1,1,0.6867996989452696,0.6867996989452696,Correct
+The battery is working well as a replacement for the original that came with the phone over 2 years ago.,1,1,0.5027289131477564,0.5027289131477564,Correct
+Worst software ever used.... If I could give this zero stars I would.,0,0,0.3668323778846003,0.6331676221153997,Correct
+Disappointing accessory from a good manufacturer.,0,1,0.5685024730435568,0.5685024730435568,False Positive
+I didn't think that the instructions provided were helpful to me.,0,0,0.3500199469594013,0.6499800530405987,Correct
+"Good product, good seller.",1,1,0.8207943638213098,0.8207943638213098,Correct
+I've missed numerous calls because of this reason.,0,0,0.47640766295236253,0.5235923370476374,Correct
+Stay Away From the Q!.,0,0,0.36964855042880224,0.6303514495711977,Correct
+IT'S REALLY EASY.,1,1,0.5096165614204304,0.5096165614204304,Correct
+Horrible phone.,0,0,0.3832236442436203,0.6167763557563797,Correct
+Poor Talk Time Performance.,0,0,0.293152867650397,0.7068471323496031,Correct
+I did not bother contacting the company for few dollar product but I learned the lesson that I should not have bought this form online anyway.,0,0,0.2813477277168096,0.7186522722831904,Correct
+[...] down the drain because of a weak snap!,0,0,0.3874086065180122,0.6125913934819878,Correct
+The shipping time was also very quick!,1,0,0.49724044074853385,0.5027595592514662,False Negative
+Waste of 13 bucks.,0,0,0.23473444904382862,0.7652655509561714,Correct
+Battery charge-life is quite long.,1,0,0.4129037126626683,0.5870962873373318,False Negative
+Lasted one day and then blew up.,0,0,0.4522229582440588,0.5477770417559412,Correct
+Does everything it should and more.,1,0,0.4937106339281692,0.5062893660718308,False Negative
+I had Verizon 2 years ago and really liked their service.,1,0,0.45107439090132345,0.5489256090986765,False Negative
+don't waste your money and time.,0,0,0.24260025587794068,0.7573997441220593,Correct
+Last time buying from you.,0,0,0.3767915822843496,0.6232084177156504,Correct
+And I just love the colors!,1,1,0.7248007763248341,0.7248007763248341,Correct
+"It holds a charge for a long time, is reasonably comfortable under long-wearing conditions and the quality of sound is tremendous.",1,1,0.5563308596346959,0.5563308596346959,Correct
+So anyone near you will hear part of your conversation.,0,0,0.4045134480551316,0.5954865519448684,Correct
+Does Not Work.,0,0,0.15035597099984335,0.8496440290001567,Correct
+"The camera, although rated at an impressive 1.3 megapixels, renders images that fall well below expectations of such a relatively high resolution.",0,1,0.5029628568152748,0.5029628568152748,False Positive
+Buttons are too small.,0,0,0.4206740637425334,0.5793259362574665,Correct
+It was horrible!.,0,0,0.3864745546507664,0.6135254453492336,Correct
+"Not only will it drain your player, but may also potentially fry it.",0,0,0.28564753672629606,0.7143524632737039,Correct
+"It's so stupid to have to keep buying new chargers, car chargers, cradles, headphones and car kits every time a new phone comes out.",0,1,0.5027779039821891,0.5027779039821891,False Positive
+I wear it everyday and it holds up very well.,1,1,0.6630010024974328,0.6630010024974328,Correct
+Trying to make a call on these is an exercise in frustration.,0,1,0.5036093562532923,0.5036093562532923,False Positive
+2 thumbs up to this seller,1,0,0.4388071196637459,0.561192880336254,False Negative
+I'm happy about this purchase- good quality and low price.,1,1,0.6562430597297512,0.6562430597297512,Correct
+This company charge me a restocking fee and still not given me my refund back.,0,0,0.29023874947532324,0.7097612505246768,Correct
+It dit not work most of the time with my Nokia 5320.,0,0,0.2820977985071108,0.7179022014928892,Correct
+A usable keyboard actually turns a PDA into a real-world useful machine instead of just a neat gadget.,1,1,0.5016531304331292,0.5016531304331292,Correct
+It doesn't work in Europe or Asia.,0,0,0.2521205270300118,0.7478794729699882,Correct
+"It lasts less than 3o minutes, if I actually try to use the phone.My wife has the same phone with the same problem.",0,0,0.4365014589535025,0.5634985410464974,Correct
+!I definitly recommend!!,1,1,0.6290142984796148,0.6290142984796148,Correct
+Excellent dual-purpose headset.,1,1,0.795485202789797,0.795485202789797,Correct
+"It is light, has plenty of battery capacity, and is very confortable to wear for somewhat extended periods of time.",1,1,0.5587385399327109,0.5587385399327109,Correct
+Terrible.. My car will not accept this cassette.,0,0,0.2893035588678963,0.7106964411321037,Correct
+The camera on the phone may be used as a dustpan when indoors... I'd rather be using a disposable then this.,0,0,0.40575700817031773,0.5942429918296823,Correct
+"I searched the Internet, and found this one to be the best value.",1,1,0.6258222963547625,0.6258222963547625,Correct
+Too bad you have to pay up to $$$ a month for the service!,0,0,0.332598373032059,0.667401626967941,Correct
+"* Comes with a strong light that you can use to light up your camera shots, and even flash SOS signals (seriously!",1,0,0.4729976640295535,0.5270023359704465,False Negative
+Great audio!.,1,1,0.7652247478857162,0.7652247478857162,Correct
+I wish I could return the unit and get back my money.,0,0,0.2903928264571042,0.7096071735428958,Correct
+This pair of headphones is the worst that I have ever had sound-wise.,0,0,0.4146339763694832,0.5853660236305168,Correct
+Love this product.,1,1,0.7387640066575748,0.7387640066575748,Correct
+Earbud piece breaks easily.,0,0,0.33416176477509385,0.6658382352249061,Correct
+i got this phone around the end of may and i'm completely unhappy with it.,0,0,0.4998536879919935,0.5001463120080065,Correct
+Freezes frequently4.,0,0,0.4564668044461548,0.5435331955538452,Correct
+Rip off---- Over charge shipping.,0,0,0.3878511073055924,0.6121488926944076,Correct
+"I have only had it for a few weeks, but so far, so good.",1,1,0.5327165342205314,0.5327165342205314,Correct
+#1 It Works - #2 It is Comfortable.,1,1,0.7762021454144505,0.7762021454144505,Correct
+what a disappointment,0,0,0.3369756045598604,0.6630243954401396,Correct
+"The mic there is a joke, and the volume is quite low.",0,1,0.5039780267312866,0.5039780267312866,False Positive
+"The screen size is big, key pad lit well enough, and the camera quality is excellent for a camera phone.",1,1,0.6686873274884504,0.6686873274884504,Correct
+I have read other's reviews here but I haven't had any problem with it.,1,0,0.46098447228514744,0.5390155277148525,False Negative
+It fits my ear well and is comfortable on.,1,1,0.6994221448298464,0.6994221448298464,Correct
+It finds my cell phone right away when I enter the car.,1,1,0.533340138795369,0.533340138795369,Correct
+You get what you pay for I guess.,0,0,0.3606098995571918,0.6393901004428082,Correct
+Fantastic buy and will get again for whatever my next phone is,1,1,0.5337408799524509,0.5337408799524509,Correct
+"When it opens, the battery connection is broken and the device is turned off.",0,1,0.5360444975831229,0.5360444975831229,False Positive
+It feels more comfortable than most headsets because I wear glasses and that gets in the way sometimes.,1,1,0.5357784607014742,0.5357784607014742,Correct
+"The internet access was fine, it the rare instance that it worked.",0,1,0.5434529903086508,0.5434529903086508,False Positive
+Very good phone.,1,1,0.7309783594015915,0.7309783594015915,Correct
+"None of it works, just don't buy it.",0,0,0.44952339978104777,0.5504766002189523,Correct
+It makes very strange ticking noises before it ends the call.,0,1,0.5036778049564236,0.5036778049564236,False Positive
+I am also very happy with the price.,1,1,0.7742436564381369,0.7742436564381369,Correct
+The Ngage is still lacking in earbuds.,0,0,0.4602187556702171,0.5397812443297829,Correct
+It defeats the purpose of a bluetooth headset.,0,1,0.60708117790598,0.60708117790598,False Positive
+Phone is sturdy as all nokia bar phones are.,1,1,0.5451010921389726,0.5451010921389726,Correct
+The sound is clear and the people I talk to on it are amazed at the quality too.,1,1,0.5836457556421835,0.5836457556421835,Correct
+"Uncomfortable In the Ear, Don't use with LG VX9900 (EnV).",0,0,0.40865101910243157,0.5913489808975685,Correct
+worthless product.,0,1,0.5165471001607307,0.5165471001607307,False Positive
+I want my money back.,0,0,0.3148506986409789,0.6851493013590211,Correct
+Love it.. Great armband.,1,1,0.8470932635363989,0.8470932635363989,Correct
+"Excellent sound, battery life and inconspicuous to boot!.",1,1,0.6371277753038731,0.6371277753038731,Correct
+The holster that arrived did not match the photo in the ad.,0,0,0.3010254264684482,0.6989745735315518,Correct
+I've had this bluetoooth headset for some time now and still not comfortable with the way it fits on the ear.,0,1,0.532578308033088,0.532578308033088,False Positive
+What a piece of junk.. I lose more calls on this phone.,0,0,0.2516100701394624,0.7483899298605377,Correct
+Timely shipment and quality product.,1,1,0.6269003296449395,0.6269003296449395,Correct
+Nice docking station for home or work.,1,1,0.5072863894472582,0.5072863894472582,Correct
+So Far So Good!.,1,1,0.7435007019412837,0.7435007019412837,Correct
+"Also, the phone doesn't seem to accept anything except CBR mp3s, preferably ripped by Windows Media Player.",0,0,0.3667080793586536,0.6332919206413463,Correct
+Lately they have been extremely nice and helpful on the phone.,1,1,0.5762024302375546,0.5762024302375546,Correct
+Plantronics Bluetooth Excelent Buy.,1,0,0.48482268688670466,0.5151773131132953,False Negative
+Couldn't figure it out,0,0,0.43315117516125207,0.566848824838748,Correct
+The keyboard is a nice compromise between a full QWERTY and the basic cell phone number keypad.,1,1,0.6169907581873788,0.6169907581873788,Correct
+"It has a great camera thats 2MP, and the pics are nice and clear with great picture quality.",1,1,0.8288199717384245,0.8288199717384245,Correct
+The item received was Counterfeit.,0,0,0.4479628057256425,0.5520371942743575,Correct
+"Needless to say, I wasted my money.",0,0,0.38944546207306513,0.6105545379269348,Correct
+Disapointing Results.,0,0,0.4519311424631262,0.5480688575368737,Correct
+Incredible!.,1,0,0.4874670788550924,0.5125329211449077,False Negative
+Happy so far!.,1,1,0.6731524434070616,0.6731524434070616,Correct
+Awsome Device Works Great!!.,1,1,0.9204685714716188,0.9204685714716188,Correct
+Unfortunately it's easy to accidentally activate them with the gentle-touch buttons if you accidentally touch the phone to your face while listening.,0,0,0.4186331262578553,0.5813668737421447,Correct
+"Other than that, the leather is nice and soft; the fit is very tight; the cut out for the face is a good shape.",1,1,0.7064092666593309,0.7064092666593309,Correct
+"Also, if your phone is dropped, this case is not going to save it, specially when dropped face down.",0,0,0.419061685676677,0.580938314323323,Correct
+You'll love how thin it is.,1,1,0.5128480255240667,0.5128480255240667,Correct
+Setup went very smoothly.,1,0,0.4772766704403025,0.5227233295596976,False Negative
+It is practically useless and did not add any kind of boost to my reception after I bought it.,0,0,0.4053013395435058,0.5946986604564942,Correct
+I tried talking real loud but shouting on the telephone gets old and I was still told it wasn't great.,0,1,0.5695879474737283,0.5695879474737283,False Positive
+.... Item arrived quickly and works great with my Metro PCS Samsung SCH-r450 slider phone and Sony Premium Sound in ear plugs.,1,1,0.7814060895138768,0.7814060895138768,Correct
+"Voice Quality, Signal Strength, Dropped Calls.",0,0,0.44586382516757544,0.5541361748324245,Correct
+This frog phone charm is adorable and very eye catching.,1,1,0.6636921563468277,0.6636921563468277,Correct
+Bad Reception.,0,0,0.3439246245274244,0.6560753754725757,Correct
+The cutouts and buttons are placed perfectly.,1,1,0.503090258735464,0.503090258735464,Correct
+WORTHWHILE.,1,0,0.4790893894589398,0.5209106105410601,False Negative
+"Performed awful -- muffled, tinny incoming sound and severe echo for those on the other end of the call.",0,1,0.517020679625101,0.517020679625101,False Positive
+Blue Ant is easy to use.,1,1,0.6246775600687156,0.6246775600687156,Correct
+"Perhaps my phone is defective, but people cannot hear me when I use this.",0,0,0.4727828569697429,0.527217143030257,Correct
+Battery is holding up well.,1,1,0.5356007980956395,0.5356007980956395,Correct
+I'm still infatuated with this phone.,1,1,0.5547633675886844,0.5547633675886844,Correct
+I did not have any problem with this item and would order it again if needed.,1,0,0.3949184166545658,0.6050815833454342,False Negative
+"Simple, lightweight and great fit.",1,1,0.6829508839802647,0.6829508839802647,Correct
+"After 3 months, screen just went black all of a sudden.",0,0,0.40833331678410756,0.5916666832158924,Correct
+"Terrible product, and waste of money!",0,0,0.2811375350826176,0.7188624649173825,Correct
