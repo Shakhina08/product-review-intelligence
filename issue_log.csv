@@ -1,0 +1,6 @@
+Observation,Risk,Decision,Evidence,Status
+0 empty reviews were found.,The model cannot learn from empty text.,Remove empty reviews before splitting.,Empty-review check,Resolved
+10 duplicate reviews were removed.,The same review could appear in training and test data.,Keep only one copy before splitting.,Duplicate-text check,Resolved
+0 review texts had conflicting labels.,The same input would have two different correct answers.,Remove conflicting review texts.,Grouped label-count check,Resolved
+73 reviews contain two words or fewer.,Very short reviews may provide limited context.,Keep them and examine them during error analysis.,Review-length analysis,Open for evaluation
+"Class counts are {0: 497, 1: 493}.",Unequal classes could make accuracy misleading.,Use stratified splitting and macro F1.,Class-distribution analysis,Controlled
