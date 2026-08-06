@@ -1,8 +1,7 @@
-pandas
 numpy
+pandas
 scikit-learn
 matplotlib
 seaborn
-mlflow
 joblib
-jupyter
+mlflow
