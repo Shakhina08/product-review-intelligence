@@ -1,0 +1,4 @@
+run_id,run_name,status,model,vectorizer,ngram_range,max_iter,random_state,validation_accuracy,validation_macro_f1,runtime_seconds
+c4426a8b157a435a9268ed4d8652ea64,run_02_tfidf_logreg_unigram,FINISHED,LogisticRegression,TfidfVectorizer,1_1,1000,42,0.831081081081081,0.8308880661821838,0.058127939999394584
+28b20ade39e145d2af0ccbb5cac2d87a,run_03_tfidf_linear_svm_unigram,FINISHED,LinearSVC,TfidfVectorizer,1_1,,42,0.8108108108108109,0.8107762557077626,0.02216918500016618
+352a28c764b64fee99ad2e4f9088f323,run_04_tfidf_logreg_unigram_bigram,FINISHED,LogisticRegression,TfidfVectorizer,1_2,1000,42,0.8513513513513513,0.8512426900584795,0.05143569200026832
