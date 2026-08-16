@@ -100,13 +100,41 @@ The protected test set was evaluated once, and no tuning was performed after vie
 - Dataset documentation completed
 - Repository structure organized
 
+## Current Status
+
+The capstone project is complete and ready for final submission.
+
+The Data Gate, Model Gate, protected test evaluation, error analysis, model saving, demo notebook, documentation, and MLflow experiment tracking have been completed.
+
+The final selected model is TF-IDF unigram + bigram with Logistic Regression.
+
+Final protected test results:
+- Accuracy: 0.8054
+- Macro F1: 0.8053
+
+MLflow evidence has been verified and the repository contains a non-empty reports/mlflow_runs.csv with the three successful model experiment runs.
+
+## Completed Tasks
+
+- Data Gate completed
+- Train/validation/test split completed
+- DummyClassifier baseline completed
+- Three text-classification experiments completed
+- Final model selected using validation results
+- Protected test evaluated once
+- Error analysis completed
+- Final model saved
+- Model metadata saved
+- Demo notebook completed and tested
+- README completed
+- requirements.txt finalized
+- MLflow experiment tracking verified
+- reports/mlflow_runs.csv corrected and verified
+- Repository made accessible for review
+- Official LMS submission template prepared
+
 ## Remaining Tasks
-
-- Finalize `requirements.txt`
-- Verify all repository files
-- Prepare LMS submission document
-- Prepare defense explanation and demonstration
-
+- Prepare for the project defense/presentation
 ## Final Model Limitation
 
 The model may struggle with mixed sentiment, sarcasm, very short reviews, spelling errors, unfamiliar vocabulary and reviews requiring wider product context.
